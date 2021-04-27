@@ -1,6 +1,6 @@
 # VinceCeniccola.github.io
 
-Basic Python Projects
+<b>Basic Python Projects</b>
 
 
 
