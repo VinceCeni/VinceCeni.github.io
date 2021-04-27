@@ -1,6 +1,6 @@
 # VinceCeniccola.github.io
 
-<b>Basic Python Projects</b>
+<h1>Basic Python Projects</h1>
 
 These are basic projects written in Python.  They use various modules such as tkinter or sqlite3.
 
