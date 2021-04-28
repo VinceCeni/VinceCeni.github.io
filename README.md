@@ -6,9 +6,9 @@ These are basic projects written in Python.  They use various modules such as tk
 
 <h2>Projects:</h2>
 
--<a href="https://github.com/VinceCeni/Django_Checkbook_Repo"Checkbook</a>>
+-<a href="https://github.com/VinceCeni/Django_Checkbook_Repo">Checkbook</a>
 
--<a href="https://github.com/VinceCeni/DjangoUniversity"Django University</a>>
+-<a href="https://github.com/VinceCeni/DjangoUniversity">Django University</a>
 
 <h3>Checkbook</h3>
 
